@@ -1,7 +1,0 @@
-{
-    "name": "react-chat-widget-cdn",
-    "version": "1.0.0",
-    "main": "static/js/main.js",
-    "module": "static/js/main.js",
-    "unpkg": "static/js/main.js"
-  }
